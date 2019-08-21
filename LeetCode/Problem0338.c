@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+// Problem 338: Counting Bits
 int main(void) {
     int n = 5;
     countBits(n, sizeof(n));

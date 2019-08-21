@@ -1,6 +1,7 @@
 package leetcode;
 
-public class FlipImage_832 {
+// Problem 832: Flip Image
+public class Problem0832 {
     public int[][] flipAndInvertImage(int[][] A) {
 
         reverseRow(A);

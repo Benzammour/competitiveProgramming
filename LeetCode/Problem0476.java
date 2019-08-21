@@ -1,6 +1,7 @@
 package leetcode;
 
-public class NumberComplement_476 {
+// Problem 476: Number Complement
+public class Problem0476 {
 
 	public int findComplement(int num) {
 		int oneConcat = 0b0;

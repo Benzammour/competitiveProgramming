@@ -1,7 +1,7 @@
-// #######################################
-// Still buggy.
-// #######################################
-class ConvertBST_538 {
+// Problem 538: Convert Binary Search Tree
+class Problem0538 {
+    // Still buggy.
+
     public TreeNode convertBST(TreeNode root) {
         if (root != null) {
             Integer tempLeft = null;

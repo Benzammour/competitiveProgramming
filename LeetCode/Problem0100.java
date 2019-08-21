@@ -1,10 +1,10 @@
 package leetcode;
 
 import utility.TreeNode;
-
 import java.util.ArrayList;
 
-public class SameTree_100 {
+// // Problem 100: Same Tree 
+public class Problem0100 {
     private ArrayList<Integer> pTree = new ArrayList<>();
     private ArrayList<Integer> qTree = new ArrayList<>();
 
