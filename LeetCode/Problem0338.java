@@ -1,5 +1,3 @@
-package leetcode;
-
 // Problem 338: Counting Bits
 public class Problem0338 {
 

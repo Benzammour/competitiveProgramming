@@ -1,5 +1,3 @@
-package leetcode;
-
 // Problem 867: Transpose Matrix
 public class Problem0867 {
 	public int[][] transpose(int[][] A) {

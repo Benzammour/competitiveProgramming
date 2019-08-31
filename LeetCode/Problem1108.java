@@ -1,5 +1,3 @@
-package leetcode;
-
 // Problem 1108: Defanging an IP Address
 public class 1108 {
 

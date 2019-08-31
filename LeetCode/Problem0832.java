@@ -1,5 +1,3 @@
-package leetcode;
-
 // Problem 832: Flip Image
 public class Problem0832 {
     public int[][] flipAndInvertImage(int[][] A) {

@@ -1,5 +1,3 @@
-package leetcode;
-
 import utility.TreeNode;
 import java.util.ArrayList;
 

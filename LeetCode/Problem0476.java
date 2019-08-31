@@ -1,5 +1,3 @@
-package leetcode;
-
 // Problem 476: Number Complement
 public class Problem0476 {
 
